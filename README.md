@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width = "400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-- 👨‍💻 All of my projects are available as [Github repositories]
+- 👨‍💻 All of my projects are available as Github repositories.
 
 - 📫 How to reach me **amritanag297@gmail.com**
 
